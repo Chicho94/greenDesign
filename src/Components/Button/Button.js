@@ -36,7 +36,7 @@ const Button = forwardRef((props, ref) => {
   )
 });
 
-Button.PropTypes= {
+Button.propTypes= {
   className: PropTypes.string,
   bgColor: PropTypes.string,
   color: PropTypes.string,
