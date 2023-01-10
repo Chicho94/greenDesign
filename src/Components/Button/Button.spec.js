@@ -1,5 +1,5 @@
 import { render } from "@testing-library/react";
-import { toHaveClass, toHaveStyle } from '@testing-library/jest-dom'
+import { toHaveClass, toHaveStyle } from '@testing-library/jest-dom';
 import Button from "./index";
 
 describe("@components/Button", () => {
